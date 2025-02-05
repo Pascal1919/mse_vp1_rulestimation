@@ -1,0 +1,38 @@
+---Iteration: 1---
+Model loaded
+cuda
+Epoch: 1
+test result: score: 3.38038456629042, RMSE: 0.33068469120135957
+Epoch: 2
+test result: score: 2.6414324396804085, RMSE: 0.26332585739316167
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 3
+test result: score: 2.2257087121521146, RMSE: 0.23293721410573126
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 4
+test result: score: 2.132346961908507, RMSE: 0.2255837171747386
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 5
+test result: score: 2.099123674116824, RMSE: 0.22193921501513003
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 6
+test result: score: 2.1324236492623116, RMSE: 0.23092533991833192
+Epoch: 7
+test result: score: 2.0029675352900402, RMSE: 0.21532273750889364
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 8
+test result: score: 1.9922564748635614, RMSE: 0.21092481913281189
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 9
+test result: score: 2.2108652876856323, RMSE: 0.23161770213096286
+Epoch: 10
+test result: score: 1.9047364592135994, RMSE: 0.20379642373809584
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_24/24_iteration1_best_RMSE.pth.tar!
+Found 509 unique motor IDs in the data set.

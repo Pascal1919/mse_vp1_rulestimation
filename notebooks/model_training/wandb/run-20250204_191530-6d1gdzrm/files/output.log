@@ -1,0 +1,23 @@
+Model loaded
+cuda
+Epoch: 1
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 2
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 3
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 4
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 5
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 6
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 7
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 8
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 9
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Epoch: 10
+test result: score: 3.485429094498053, RMSE: 0.7630746628042399
+Found 200 unique motor IDs in the data set.

@@ -1,0 +1,16 @@
+{"time":"2025-01-31T16:11:15.9289944+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\palig\\MSE\\Vertiefungsprojekt1\\mse_vp1_rulestimation\\notebooks\\model_training\\wandb\\run-20250131_161115-corfzbkr\\logs\\debug-core.log"}
+{"time":"2025-01-31T16:11:16.0380802+01:00","level":"INFO","msg":"created new stream","id":"corfzbkr"}
+{"time":"2025-01-31T16:11:16.0380802+01:00","level":"INFO","msg":"stream: started","id":"corfzbkr"}
+{"time":"2025-01-31T16:11:16.0380802+01:00","level":"INFO","msg":"handler: started","stream_id":"corfzbkr"}
+{"time":"2025-01-31T16:11:16.0380802+01:00","level":"INFO","msg":"sender: started","stream_id":"corfzbkr"}
+{"time":"2025-01-31T16:11:16.0380802+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"corfzbkr"}
+{"time":"2025-01-31T16:11:16.6286799+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-31T16:12:07.3602005+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-31T16:12:07.3602005+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-31T16:12:08.1920126+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-31T16:12:08.3707181+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 17-20, summary, console lines 56-61","runtime_seconds":0.1787055}],"total_operations":1}}
+{"time":"2025-01-31T16:12:09.4863314+01:00","level":"INFO","msg":"stream: closing","id":"corfzbkr"}
+{"time":"2025-01-31T16:12:09.4863314+01:00","level":"INFO","msg":"handler: closed","stream_id":"corfzbkr"}
+{"time":"2025-01-31T16:12:09.4863314+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"corfzbkr"}
+{"time":"2025-01-31T16:12:09.4863314+01:00","level":"INFO","msg":"sender: closed","stream_id":"corfzbkr"}
+{"time":"2025-01-31T16:12:09.4863314+01:00","level":"INFO","msg":"stream: closed","id":"corfzbkr"}

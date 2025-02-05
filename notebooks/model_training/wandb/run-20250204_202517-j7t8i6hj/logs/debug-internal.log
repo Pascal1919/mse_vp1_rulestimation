@@ -1,0 +1,10 @@
+{"time":"2025-02-04T20:25:18.0745515+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\palig\\MSE\\Vertiefungsprojekt1\\mse_vp1_rulestimation\\notebooks\\model_training\\wandb\\run-20250204_202517-j7t8i6hj\\logs\\debug-core.log"}
+{"time":"2025-02-04T20:25:18.2994715+01:00","level":"INFO","msg":"created new stream","id":"j7t8i6hj"}
+{"time":"2025-02-04T20:25:18.3002014+01:00","level":"INFO","msg":"stream: started","id":"j7t8i6hj"}
+{"time":"2025-02-04T20:25:18.3002014+01:00","level":"INFO","msg":"handler: started","stream_id":"j7t8i6hj"}
+{"time":"2025-02-04T20:25:18.3002014+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"j7t8i6hj"}
+{"time":"2025-02-04T20:25:18.3002014+01:00","level":"INFO","msg":"sender: started","stream_id":"j7t8i6hj"}
+{"time":"2025-02-04T20:25:18.6553775+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T20:25:18.7508597+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T20:25:18.7590086+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T20:25:27.6002821+01:00","level":"INFO","msg":"Pausing system monitor"}

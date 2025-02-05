@@ -1,0 +1,51 @@
+Epoch 1/10
+Training Epoch 1: 100%|██████████| 284/284 [00:08<00:00, 32.55it/s]
+Validation Epoch 1: 100%|██████████| 71/71 [00:10<00:00,  6.96it/s]
+Training Epoch 2: 100%|██████████| 284/284 [00:08<00:00, 31.77it/s]
+Epoch 2/10
+Validation Epoch 2: 100%|██████████| 71/71 [00:10<00:00,  6.74it/s]
+Training Epoch 3: 100%|██████████| 284/284 [00:08<00:00, 32.25it/s]
+Epoch 3/10
+Validation Epoch 3: 100%|██████████| 71/71 [00:10<00:00,  6.86it/s]
+Training Epoch 4: 100%|██████████| 284/284 [00:09<00:00, 30.55it/s]
+Epoch 4/10
+Validation Epoch 4: 100%|██████████| 71/71 [00:10<00:00,  6.51it/s]
+Training Epoch 5: 100%|██████████| 284/284 [00:09<00:00, 31.46it/s]
+Epoch 5/10
+Validation Epoch 5: 100%|██████████| 71/71 [00:10<00:00,  6.72it/s]
+Training Epoch 6: 100%|██████████| 284/284 [00:09<00:00, 31.23it/s]
+Epoch 6/10
+Validation Epoch 6: 100%|██████████| 71/71 [00:10<00:00,  6.66it/s]
+Training Epoch 7: 100%|██████████| 284/284 [00:09<00:00, 30.81it/s]
+Epoch 7/10
+Validation Epoch 7: 100%|██████████| 71/71 [00:10<00:00,  6.64it/s]
+Training Epoch 8: 100%|██████████| 284/284 [00:08<00:00, 31.94it/s]
+Epoch 8/10
+Validation Epoch 8: 100%|██████████| 71/71 [00:10<00:00,  6.82it/s]
+Training Epoch 9: 100%|██████████| 284/284 [00:08<00:00, 32.33it/s]
+Epoch 9/10
+Validation Epoch 9: 100%|██████████| 71/71 [00:10<00:00,  6.90it/s]
+Training Epoch 10: 100%|██████████| 284/284 [00:08<00:00, 32.50it/s]
+Epoch 10/10
+Validation Epoch 10: 100%|██████████| 71/71 [00:10<00:00,  6.97it/s]
+Training Epoch 1:   4%|▍         | 11/284 [00:00<00:11, 24.67it/s][34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 0 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Found 200 unique motor IDs in the data set.
+(200, 16)
+Test RMSE: 23.7032, Test Score: 5646.5391
+✔️ Last completed run: v5edqeis
+Found 200 unique motor IDs in the data set.
+(45351, 16)
+torch.Size([128])
+Warmed up
+Epoch 1/10
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 1 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 2 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 3 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 4 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 5 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 6 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 7 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 8 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 9 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+[34m[1mwandb[0m: [33mWARNING[0m Tried to log to step 10 that is less than the current step 2860. Steps must be monotonically increasing, so this data will be ignored. See https://wandb.me/define-metric to log data out of order.
+Training Epoch 1:  58%|█████▊    | 165/284 [00:05<00:03, 30.15it/s]

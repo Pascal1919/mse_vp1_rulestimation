@@ -1,0 +1,22 @@
+{"time":"2025-02-01T10:50:21.0326365+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\palig\\MSE\\Vertiefungsprojekt1\\mse_vp1_rulestimation\\notebooks\\model_training\\wandb\\run-20250201_105021-n7ucmhrt\\logs\\debug-core.log"}
+{"time":"2025-02-01T10:50:21.1389438+01:00","level":"INFO","msg":"created new stream","id":"n7ucmhrt"}
+{"time":"2025-02-01T10:50:21.1389438+01:00","level":"INFO","msg":"stream: started","id":"n7ucmhrt"}
+{"time":"2025-02-01T10:50:21.1389438+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"n7ucmhrt"}
+{"time":"2025-02-01T10:50:21.1389438+01:00","level":"INFO","msg":"handler: started","stream_id":"n7ucmhrt"}
+{"time":"2025-02-01T10:50:21.1389438+01:00","level":"INFO","msg":"sender: started","stream_id":"n7ucmhrt"}
+{"time":"2025-02-01T10:50:21.4578155+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-01T10:51:05.5403666+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T11:09:29.9188605+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T11:09:29.9204444+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T11:09:30.3039541+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T11:09:30.3142359+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-01T11:09:30.4098305+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-01T11:10:37.7122772+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-01T11:10:37.7122772+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-01T11:10:38.5410441+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-01T11:10:38.7285189+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 10-10, summary, console lines 40-40","runtime_seconds":0.1874748}],"total_operations":1}}
+{"time":"2025-02-01T11:10:39.8381676+01:00","level":"INFO","msg":"stream: closing","id":"n7ucmhrt"}
+{"time":"2025-02-01T11:10:39.8381676+01:00","level":"INFO","msg":"handler: closed","stream_id":"n7ucmhrt"}
+{"time":"2025-02-01T11:10:39.8381676+01:00","level":"INFO","msg":"sender: closed","stream_id":"n7ucmhrt"}
+{"time":"2025-02-01T11:10:39.8381676+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"n7ucmhrt"}
+{"time":"2025-02-01T11:10:39.8381676+01:00","level":"INFO","msg":"stream: closed","id":"n7ucmhrt"}

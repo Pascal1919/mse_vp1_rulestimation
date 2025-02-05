@@ -1,0 +1,18 @@
+{"time":"2025-02-04T20:36:41.3714144+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\palig\\MSE\\Vertiefungsprojekt1\\mse_vp1_rulestimation\\notebooks\\model_training\\wandb\\run-20250204_203641-m9gq8vpe\\logs\\debug-core.log"}
+{"time":"2025-02-04T20:36:41.4812571+01:00","level":"INFO","msg":"created new stream","id":"m9gq8vpe"}
+{"time":"2025-02-04T20:36:41.4812571+01:00","level":"INFO","msg":"stream: started","id":"m9gq8vpe"}
+{"time":"2025-02-04T20:36:41.4812571+01:00","level":"INFO","msg":"handler: started","stream_id":"m9gq8vpe"}
+{"time":"2025-02-04T20:36:41.4812571+01:00","level":"INFO","msg":"sender: started","stream_id":"m9gq8vpe"}
+{"time":"2025-02-04T20:36:41.4812571+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"m9gq8vpe"}
+{"time":"2025-02-04T20:36:41.9853266+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-04T20:36:42.0806478+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-04T20:36:42.0870467+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-04T20:37:23.7858766+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-04T20:37:23.7863798+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-04T20:37:24.4146114+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-04T20:37:24.6761754+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-02-04T20:37:25.6904702+01:00","level":"INFO","msg":"stream: closing","id":"m9gq8vpe"}
+{"time":"2025-02-04T20:37:25.6904702+01:00","level":"INFO","msg":"handler: closed","stream_id":"m9gq8vpe"}
+{"time":"2025-02-04T20:37:25.6904702+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"m9gq8vpe"}
+{"time":"2025-02-04T20:37:25.6904702+01:00","level":"INFO","msg":"sender: closed","stream_id":"m9gq8vpe"}
+{"time":"2025-02-04T20:37:25.6904702+01:00","level":"INFO","msg":"stream: closed","id":"m9gq8vpe"}

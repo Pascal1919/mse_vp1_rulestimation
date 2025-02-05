@@ -1,0 +1,29 @@
+2025-02-01 10:49:16,877 INFO    MainThread:32012 [wandb_init.py:_log_setup():523] Logging user logs to c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\run-20250201_104916-1pty54sc\logs\debug.log
+2025-02-01 10:49:16,877 INFO    MainThread:32012 [wandb_init.py:_log_setup():524] Logging internal logs to c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\run-20250201_104916-1pty54sc\logs\debug-internal.log
+2025-02-01 10:49:16,877 INFO    MainThread:32012 [wandb_init.py:_jupyter_setup():469] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x0000027F27505810>
+2025-02-01 10:49:16,877 INFO    MainThread:32012 [wandb_init.py:init():641] calling init triggers
+2025-02-01 10:49:16,878 INFO    MainThread:32012 [wandb_init.py:init():647] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.0005, 'epochs': 10, 'model': 'DCNN_13'}
+2025-02-01 10:49:16,878 INFO    MainThread:32012 [wandb_init.py:init():674] starting backend
+2025-02-01 10:49:16,878 INFO    MainThread:32012 [wandb_init.py:init():678] sending inform_init request
+2025-02-01 10:49:16,881 INFO    MainThread:32012 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-02-01 10:49:16,881 INFO    MainThread:32012 [wandb_init.py:init():693] backend started and connected
+2025-02-01 10:49:16,883 INFO    MainThread:32012 [wandb_run.py:_label_probe_notebook():1226] probe notebook
+2025-02-01 10:49:16,885 INFO    MainThread:32012 [wandb_init.py:init():786] updated telemetry
+2025-02-01 10:49:16,919 INFO    MainThread:32012 [wandb_init.py:init():818] communicating run to backend with 90.0 second timeout
+2025-02-01 10:49:17,270 INFO    MainThread:32012 [wandb_init.py:init():868] starting run threads in backend
+2025-02-01 10:49:17,381 INFO    MainThread:32012 [wandb_run.py:_console_start():2415] atexit reg
+2025-02-01 10:49:17,381 INFO    MainThread:32012 [wandb_run.py:_redirect():2265] redirect: wrap_raw
+2025-02-01 10:49:17,382 INFO    MainThread:32012 [wandb_run.py:_redirect():2330] Wrapping output streams.
+2025-02-01 10:49:17,382 INFO    MainThread:32012 [wandb_run.py:_redirect():2355] Redirects installed.
+2025-02-01 10:49:17,382 INFO    MainThread:32012 [wandb_init.py:init():910] run started, returning control to user process
+2025-02-01 10:49:34,363 INFO    MainThread:32012 [wandb_run.py:_finish():2140] finishing run p-alig-fh-ost/mse-vp1/1pty54sc
+2025-02-01 10:49:34,364 ERROR   MainThread:32012 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-02-01 10:49:34,364 INFO    MainThread:32012 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-01 10:49:34,364 INFO    MainThread:32012 [wandb_init.py:_jupyter_teardown():451] cleaning up jupyter logic
+2025-02-01 10:49:34,364 INFO    MainThread:32012 [wandb_run.py:_atexit_cleanup():2380] got exitcode: 0
+2025-02-01 10:49:34,364 INFO    MainThread:32012 [wandb_run.py:_restore():2362] restore
+2025-02-01 10:49:34,364 INFO    MainThread:32012 [wandb_run.py:_restore():2368] restore done
+2025-02-01 10:49:36,253 INFO    MainThread:32012 [wandb_run.py:_footer_history_summary_info():3984] rendering history
+2025-02-01 10:49:36,254 INFO    MainThread:32012 [wandb_run.py:_footer_history_summary_info():4016] rendering summary
+2025-02-01 10:49:36,260 INFO    MainThread:32012 [wandb_run.py:_footer_sync_info():3945] logging synced files

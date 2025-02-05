@@ -1,0 +1,31 @@
+Model loaded
+cuda
+Epoch: 1
+test result: score: 1.0260709580400043, RMSE: 0.21549060923918087
+Epoch: 2
+test result: score: 1.04472551215022, RMSE: 0.21628376310124242
+Epoch: 3
+test result: score: 0.712622534176358, RMSE: 0.16912069382960052
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 4
+test result: score: 0.7151728194729051, RMSE: 0.1661537504176921
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 5
+test result: score: 0.8820481782066555, RMSE: 0.22247257540774001
+Epoch: 6
+test result: score: 0.7435444842906962, RMSE: 0.1616033929239436
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 7
+test result: score: 0.9138837391479949, RMSE: 0.19881163942459915
+Epoch: 8
+test result: score: 0.6304848591050602, RMSE: 0.1497145690167844
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_RMSE.pth.tar!
+Epoch: 9
+test result: score: 0.7529267651422362, RMSE: 0.16921578964616693
+Epoch: 10
+test result: score: 0.5976301652475485, RMSE: 0.14375201506943622
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_24/24_iteration1_best_RMSE.pth.tar!
+Best model saved at iteration 1.

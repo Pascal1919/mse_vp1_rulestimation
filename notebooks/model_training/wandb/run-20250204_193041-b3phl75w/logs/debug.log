@@ -1,0 +1,29 @@
+2025-02-04 19:30:41,914 INFO    MainThread:23348 [wandb_setup.py:_flush():68] Current SDK version is 0.19.2
+2025-02-04 19:30:41,914 INFO    MainThread:23348 [wandb_setup.py:_flush():68] Configure stats pid to 23348
+2025-02-04 19:30:41,914 INFO    MainThread:23348 [wandb_setup.py:_flush():68] Loading settings from C:\Users\palig\.config\wandb\settings
+2025-02-04 19:30:41,914 INFO    MainThread:23348 [wandb_setup.py:_flush():68] Loading settings from c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\settings
+2025-02-04 19:30:41,914 INFO    MainThread:23348 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-04 19:30:41,914 INFO    MainThread:23348 [wandb_init.py:_log_setup():523] Logging user logs to c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\run-20250204_193041-b3phl75w\logs\debug.log
+2025-02-04 19:30:41,916 INFO    MainThread:23348 [wandb_init.py:_log_setup():524] Logging internal logs to c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\run-20250204_193041-b3phl75w\logs\debug-internal.log
+2025-02-04 19:30:41,916 INFO    MainThread:23348 [wandb_init.py:_jupyter_setup():469] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001612D4CCAD0>
+2025-02-04 19:30:41,916 INFO    MainThread:23348 [wandb_init.py:init():641] calling init triggers
+2025-02-04 19:30:41,916 INFO    MainThread:23348 [wandb_init.py:init():647] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'num_epochs': 10, 'batch_size': 128, 'derivatives_order': 2, 'hidden_dim': 3, 'loss_lambda': 100, 'dataset': '13'}
+2025-02-04 19:30:41,917 INFO    MainThread:23348 [wandb_init.py:init():674] starting backend
+2025-02-04 19:30:42,131 INFO    MainThread:23348 [wandb_init.py:init():678] sending inform_init request
+2025-02-04 19:30:42,143 INFO    MainThread:23348 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-02-04 19:30:42,143 INFO    MainThread:23348 [wandb_init.py:init():693] backend started and connected
+2025-02-04 19:30:42,145 INFO    MainThread:23348 [wandb_run.py:_label_probe_notebook():1226] probe notebook
+2025-02-04 19:30:42,159 INFO    MainThread:23348 [wandb_init.py:init():786] updated telemetry
+2025-02-04 19:30:42,186 INFO    MainThread:23348 [wandb_init.py:init():818] communicating run to backend with 90.0 second timeout
+2025-02-04 19:30:42,555 INFO    MainThread:23348 [wandb_init.py:init():868] starting run threads in backend
+2025-02-04 19:30:42,658 INFO    MainThread:23348 [wandb_run.py:_console_start():2415] atexit reg
+2025-02-04 19:30:42,658 INFO    MainThread:23348 [wandb_run.py:_redirect():2265] redirect: wrap_raw
+2025-02-04 19:30:42,658 INFO    MainThread:23348 [wandb_run.py:_redirect():2330] Wrapping output streams.
+2025-02-04 19:30:42,658 INFO    MainThread:23348 [wandb_run.py:_redirect():2355] Redirects installed.
+2025-02-04 19:30:42,659 INFO    MainThread:23348 [wandb_init.py:init():910] run started, returning control to user process
+2025-02-04 19:30:42,661 INFO    MainThread:23348 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-04 19:30:42,661 INFO    MainThread:23348 [wandb_init.py:_pause_backend():434] pausing backend
+2025-02-04 19:30:45,275 INFO    MainThread:23348 [wandb_init.py:_resume_backend():439] resuming backend
+2025-02-04 19:30:58,225 INFO    MainThread:23348 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-04 19:30:58,225 INFO    MainThread:23348 [wandb_init.py:_pause_backend():434] pausing backend

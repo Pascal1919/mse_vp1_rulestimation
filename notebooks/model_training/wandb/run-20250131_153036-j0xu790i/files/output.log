@@ -1,0 +1,58 @@
+Model loaded
+cuda
+Epoch: 1
+test result: score: 0.7818912558512807, RMSE: 0.18318549178851024
+Epoch: 2
+test result: score: 0.8033283909418055, RMSE: 0.1841404669754522
+Epoch: 3
+test result: score: 0.6881068707748093, RMSE: 0.15816931884685298
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 4
+test result: score: 0.6674298623798319, RMSE: 0.15715334800640887
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 5
+test result: score: 0.6607863202647756, RMSE: 0.15479340669203748
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 6
+test result: score: 0.620947555184078, RMSE: 0.14643942227623813
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 7
+test result: score: 0.7219132404836115, RMSE: 0.1741438827324333
+Epoch: 8
+test result: score: 0.6188339205641705, RMSE: 0.14649054393059502
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+Epoch: 9
+test result: score: 0.6317148608694847, RMSE: 0.15172160968460388
+Epoch: 10
+test result: score: 0.5899606706700996, RMSE: 0.13792869395101787
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 11
+test result: score: 0.63814526575583, RMSE: 0.15441256766104158
+Epoch: 12
+test result: score: 0.6192400341705402, RMSE: 0.15110349342208457
+Epoch: 13
+test result: score: 0.5590269298412422, RMSE: 0.13494008525445048
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 14
+test result: score: 0.5992699901458813, RMSE: 0.14404167357505976
+Epoch: 15
+test result: score: 0.661608038486866, RMSE: 0.16305406610014633
+Epoch: 16
+test result: score: 0.506228089679163, RMSE: 0.11703554717489706
+best_score_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/ATT_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 17
+test result: score: 0.5441602784031306, RMSE: 0.12798572341198072
+Epoch: 18
+test result: score: 0.521355558641188, RMSE: 0.12242392062803417
+Epoch: 19
+test result: score: 0.5528836031054112, RMSE: 0.129470649606392
+Epoch: 20
+test result: score: 0.5282676800390423, RMSE: 0.12148267621717075
+Best model saved at iteration 1.

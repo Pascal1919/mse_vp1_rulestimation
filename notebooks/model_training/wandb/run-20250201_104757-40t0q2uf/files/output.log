@@ -1,0 +1,36 @@
+---Iteration: 4---
+Model loaded
+cuda
+Epoch: 1
+test result: score: 1.7461717034121589, RMSE: 0.1899756501371857
+Epoch: 2
+test result: score: 1.4493055705279168, RMSE: 0.16807857105896906
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!
+Epoch: 3
+test result: score: 1.329160746303284, RMSE: 0.15082665398556722
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!
+Epoch: 4
+test result: score: 1.2693257531057702, RMSE: 0.14024992590603405
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!
+Epoch: 5
+test result: score: 1.152717271114538, RMSE: 0.1343239565370874
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!
+Epoch: 6
+test result: score: 1.1607274998305737, RMSE: 0.13328414202014954
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!
+Epoch: 7
+test result: score: 1.1349099072534838, RMSE: 0.13581878901659156
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_score.pth.tar!
+Epoch: 8
+test result: score: 1.0941040726712192, RMSE: 0.12939012589353596
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!
+Epoch: 9
+test result: score: 1.16331395042363, RMSE: 0.1317720785102472
+Epoch: 10
+test result: score: 1.1027854350405508, RMSE: 0.12838438272391248
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration4_best_RMSE.pth.tar!

@@ -1,0 +1,18 @@
+{"time":"2025-02-05T10:43:03.8402283+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\palig\\MSE\\Vertiefungsprojekt1\\mse_vp1_rulestimation\\notebooks\\model_training\\wandb\\run-20250205_104303-ilvfh86s\\logs\\debug-core.log"}
+{"time":"2025-02-05T10:43:03.9477746+01:00","level":"INFO","msg":"created new stream","id":"ilvfh86s"}
+{"time":"2025-02-05T10:43:03.9477746+01:00","level":"INFO","msg":"stream: started","id":"ilvfh86s"}
+{"time":"2025-02-05T10:43:03.9477746+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ilvfh86s"}
+{"time":"2025-02-05T10:43:03.9477746+01:00","level":"INFO","msg":"handler: started","stream_id":"ilvfh86s"}
+{"time":"2025-02-05T10:43:03.9477746+01:00","level":"INFO","msg":"sender: started","stream_id":"ilvfh86s"}
+{"time":"2025-02-05T10:43:04.5309067+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-05T12:21:05.430261+01:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/p-alig-fh-ost/mse-vp1/ilvfh86s/file_stream","body":"{\"error\":\"rate limit exceeded\"}"}
+{"time":"2025-02-05T12:21:08.151555+01:00","level":"INFO","msg":"api: retrying HTTP error","status":429,"url":"https://api.wandb.ai/files/p-alig-fh-ost/mse-vp1/ilvfh86s/file_stream","body":"{\"error\":\"rate limit exceeded\"}"}
+{"time":"2025-02-05T12:22:58.5973785+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-05T12:22:58.5973785+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-05T12:22:59.494984+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-05T12:22:59.6033616+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 698-700, summary, console lines 1552-1555","runtime_seconds":0.1083776}],"total_operations":1}}
+{"time":"2025-02-05T12:23:00.8004723+01:00","level":"INFO","msg":"stream: closing","id":"ilvfh86s"}
+{"time":"2025-02-05T12:23:00.8004723+01:00","level":"INFO","msg":"handler: closed","stream_id":"ilvfh86s"}
+{"time":"2025-02-05T12:23:00.8004723+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ilvfh86s"}
+{"time":"2025-02-05T12:23:00.8004723+01:00","level":"INFO","msg":"sender: closed","stream_id":"ilvfh86s"}
+{"time":"2025-02-05T12:23:00.8004723+01:00","level":"INFO","msg":"stream: closed","id":"ilvfh86s"}

@@ -1,0 +1,387 @@
+{"time":"2025-01-31T10:35:18.5680019+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"c:\\Users\\palig\\MSE\\Vertiefungsprojekt1\\mse_vp1_rulestimation\\notebooks\\model_training\\wandb\\run-20250131_103518-yrvkv9zm\\logs\\debug-core.log"}
+{"time":"2025-01-31T10:35:18.6763992+01:00","level":"INFO","msg":"created new stream","id":"yrvkv9zm"}
+{"time":"2025-01-31T10:35:18.6763992+01:00","level":"INFO","msg":"stream: started","id":"yrvkv9zm"}
+{"time":"2025-01-31T10:35:18.6763992+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"yrvkv9zm"}
+{"time":"2025-01-31T10:35:18.6763992+01:00","level":"INFO","msg":"handler: started","stream_id":"yrvkv9zm"}
+{"time":"2025-01-31T10:35:18.6763992+01:00","level":"INFO","msg":"sender: started","stream_id":"yrvkv9zm"}
+{"time":"2025-01-31T10:35:18.9676538+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-31T10:35:19.0806741+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:35:19.133508+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:37:17.8129282+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:55:13.9334728+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:55:15.6284594+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:55:19.3996526+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:55:19.469612+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:55:30.8074247+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:55:30.8952088+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:55:34.7153319+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:55:34.8164329+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:55:53.614106+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:55:53.6829158+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T10:55:54.5734863+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T10:55:54.6741668+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:05.6479861+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:05.6504917+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:08.252802+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:08.2586955+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:09.9014912+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:09.9104076+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:21.8712678+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:21.8761437+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:23.558309+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:23.5622996+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:25.1838503+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:25.1870999+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:27.5756634+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:27.5781729+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:41.7304673+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:41.7340748+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:43.3241036+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:43.326707+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:44.2333449+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:44.2366523+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:45.800995+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:45.8042329+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:45.9407806+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:45.9439609+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:46.9599566+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:46.9636516+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:10:56.2932+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:10:56.2956358+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:11:01.7507011+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:11:01.7533626+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:11:03.5846395+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:11:03.58844+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:11:11.4811106+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:11:11.4857967+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:11:12.4994314+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:11:12.501907+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:11:15.4052451+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:11:15.4730053+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.5250365+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.5667082+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.6083958+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.6512814+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.7001184+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.7366376+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.7699704+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.8067079+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.8419784+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.8721123+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.907175+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.9459338+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:15.9901659+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.0223293+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.0563111+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.0882724+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.1224348+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.1527819+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.1884739+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.2216+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.2528853+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.2838403+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.3218129+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.3535927+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.3848636+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.420959+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.4534612+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.4837016+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.5198821+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.5517707+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.5857981+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.61957+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.6511289+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.6810056+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.7144983+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.7461929+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.7797565+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.8131248+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.8493094+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.8808298+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.9128088+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.9467323+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:16.9760126+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.0061174+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.0455114+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.0735424+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.1035715+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.1379492+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.1669487+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.1965804+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.2278818+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.2581354+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.2971907+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.3316002+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.3642032+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.3923645+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.4223654+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.4524871+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.4813574+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.5109554+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.5409203+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.570188+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.5997101+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.6295288+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.6574517+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.6863392+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.7154972+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.7467078+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.7755979+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.8038934+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.8328222+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.8623125+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.890332+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.9196699+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.9507961+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:17.9796227+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.0084207+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.036512+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.0670427+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.0971758+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.1265962+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.1566896+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.1861723+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.2183657+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.2468558+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.2749033+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.3034343+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.3330261+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.3643173+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.3933114+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.4225134+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.4536873+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.4829443+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.5123118+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.5408255+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.569879+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.6001324+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.6300595+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.6576016+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.6870579+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.7168796+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.7466347+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.7758414+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.8041423+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.8336352+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.8653019+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.8947028+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.9235898+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.9536949+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:18.9853323+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.0158161+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.044312+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.0738595+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.1022925+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.1318728+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.159989+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.189286+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.2199018+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.2496402+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.2803903+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.3087685+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.3375602+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.3665752+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.3963337+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.4246246+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.4546671+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.4879655+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.5218043+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.5521605+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.584122+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.6141021+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.6482682+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.6766261+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.7051126+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.7361603+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.7650177+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.7968124+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.826989+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.8548364+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.8835178+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.9142163+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.9431762+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:19.9715425+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.00173+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.0374804+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.0658361+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.0954481+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.1258421+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.155269+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.1892992+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.2185683+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.2470384+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.2749668+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.3037554+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.3387788+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.3705691+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.3997424+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.4292824+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.4589309+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.4877395+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.516426+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.5458025+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.5734045+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.601671+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.6312864+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.6595209+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.6885565+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.7172792+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.7462731+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.773785+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.8017963+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.8311376+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.8606895+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.8881665+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.9166139+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.9451042+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:20.9738795+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.0807243+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.1606692+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.1989065+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.2304201+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.2575746+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.2896068+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.3202698+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.3502066+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.3794592+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.4075365+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.4367751+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.4671426+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.4959887+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.5240994+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.552346+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.581769+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.6111795+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.6395713+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.6701577+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.6989818+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.7297813+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.7598468+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.7898987+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.8194626+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.8490513+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.8782542+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.9077929+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.9374512+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.9656145+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:21.9958647+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.0240348+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.0526115+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.0815072+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.1080163+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.1438316+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.1789812+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.2126488+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.2448605+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.2765459+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.3088232+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.3418945+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.3708942+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.4012219+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.4295206+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.4710604+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.5019455+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.5301526+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.5612184+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.590642+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.6219324+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.6519848+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.682811+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.712589+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.7415848+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.7712648+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.8005719+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.8296878+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.8585867+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.8933804+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.9258976+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.9544334+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:22.9875991+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.0167865+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.0464871+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.0741574+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.1037863+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.1339506+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.162665+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.190456+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.219261+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.2487944+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.2794475+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.306915+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.343228+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.3717956+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.4093272+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.4387498+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.4678216+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.4959071+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.5241873+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.5543532+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.5834825+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.6119041+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.6409142+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.6692554+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.697887+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.7255286+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.7561569+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.7859654+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.8174813+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.859778+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.8889011+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.9174406+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.9461471+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:23.9739774+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.0026768+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.0320458+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.0605777+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.0910405+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.1192656+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.1492395+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.1787883+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.2115495+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.2429864+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.2749734+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.2997786+01:00","level":"WARN","msg":"handler: ignoring partial history record","step":0,"current":10}
+{"time":"2025-01-31T11:11:24.6633962+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:51:57.8639109+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:51:57.8653084+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:51:58.6815314+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:51:58.6831742+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T11:52:00.0445727+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-31T11:52:00.045843+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-31T13:16:09.4635482+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:18:15.7192473+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-01-31T13:21:54.8395161+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T13:22:26.9936874+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:22:48.4296319+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-01-31T13:46:11.0958065+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T13:56:11.717725+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T14:00:53.0814955+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-01-31T18:00:05.0983934+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T20:24:54.8405282+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T20:26:25.0837689+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-31T20:27:25.2462947+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-01-31T20:27:56.0886611+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-01-31T20:47:29.0162764+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-01-31T20:50:41.1460984+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-01T01:36:51.0357915+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-01T01:47:09.240859+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": read tcp 192.168.1.151:63270->35.186.228.49:443: wsarecv: Eine vorhandene Verbindung wurde vom Remotehost geschlossen."}
+{"time":"2025-02-01T04:15:13.8577391+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": dial tcp 35.186.228.49:443: connectex: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-01T04:15:27.2521297+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-02-01T04:15:56.6492798+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-01T04:58:22.7459303+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": unexpected EOF"}
+{"time":"2025-02-01T05:51:30.1077378+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-02T18:34:42.6912884+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.151:63130->35.186.228.49:443: wsarecv: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:34:44.4549591+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": dial tcp 35.186.228.49:443: connectex: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:38:31.5003358+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": unexpected EOF"}
+{"time":"2025-02-02T18:40:17.2884436+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-02T18:50:55.2084302+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.151:62596->35.186.228.49:443: wsarecv: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:52:47.87746+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-02T18:53:48.0851677+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-02T18:53:50.1939156+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": dial tcp 35.186.228.49:443: connectex: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:53:53.526878+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.151:60952->35.186.228.49:443: wsarecv: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:54:24.6739136+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream\": dial tcp 35.186.228.49:443: connectex: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:54:24.6893093+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp 35.186.228.49:443: connectex: Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat."}
+{"time":"2025-02-02T18:55:04.6504443+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-02-02T21:05:03.7103204+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/files/p-alig-fh-ost/ost-pbml/yrvkv9zm/file_stream","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}
+{"time":"2025-02-02T22:37:56.1247203+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": context deadline exceeded"}
+{"time":"2025-02-03T01:05:40.1540786+01:00","level":"INFO","msg":"api: retrying HTTP error","status":502,"url":"https://api.wandb.ai/graphql","body":"\n<html><head>\n<meta http-equiv=\"content-type\" content=\"text/html;charset=utf-8\">\n<title>502 Server Error</title>\n</head>\n<body text=#000000 bgcolor=#ffffff>\n<h1>Error: Server Error</h1>\n<h2>The server encountered a temporary error and could not complete your request.<p>Please try again in 30 seconds.</h2>\n<h2></h2>\n</body></html>\n"}

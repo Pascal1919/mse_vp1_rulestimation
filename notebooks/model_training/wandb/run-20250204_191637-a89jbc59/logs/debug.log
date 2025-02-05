@@ -1,0 +1,36 @@
+2025-02-04 19:16:37,114 INFO    MainThread:576 [wandb_init.py:_log_setup():523] Logging user logs to c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\run-20250204_191637-a89jbc59\logs\debug.log
+2025-02-04 19:16:37,114 INFO    MainThread:576 [wandb_init.py:_log_setup():524] Logging internal logs to c:\Users\palig\MSE\Vertiefungsprojekt1\mse_vp1_rulestimation\notebooks\model_training\wandb\run-20250204_191637-a89jbc59\logs\debug-internal.log
+2025-02-04 19:16:37,114 INFO    MainThread:576 [wandb_init.py:init():641] calling init triggers
+2025-02-04 19:16:37,115 INFO    MainThread:576 [wandb_init.py:init():647] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.001, 'epochs': 10, 'model': 'LSTM_13'}
+2025-02-04 19:16:37,115 INFO    MainThread:576 [wandb_init.py:init():666] found existing run on stack: 6d1gdzrm
+2025-02-04 19:16:37,115 INFO    MainThread:576 [wandb_run.py:_finish():2140] finishing run p-alig-fh-ost/mse-vp1-test/6d1gdzrm
+2025-02-04 19:16:37,115 ERROR   MainThread:576 [jupyter.py:save_history():450] Run pip install nbformat to save notebook history
+2025-02-04 19:16:37,115 INFO    MainThread:576 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-04 19:16:37,115 INFO    MainThread:576 [wandb_init.py:_jupyter_teardown():451] cleaning up jupyter logic
+2025-02-04 19:16:37,115 INFO    MainThread:576 [wandb_run.py:_atexit_cleanup():2380] got exitcode: 0
+2025-02-04 19:16:37,116 INFO    MainThread:576 [wandb_run.py:_restore():2362] restore
+2025-02-04 19:16:37,116 INFO    MainThread:576 [wandb_run.py:_restore():2368] restore done
+2025-02-04 19:16:39,860 INFO    MainThread:576 [wandb_run.py:_footer_history_summary_info():3984] rendering history
+2025-02-04 19:16:39,860 INFO    MainThread:576 [wandb_run.py:_footer_history_summary_info():4016] rendering summary
+2025-02-04 19:16:39,865 INFO    MainThread:576 [wandb_run.py:_footer_sync_info():3945] logging synced files
+2025-02-04 19:16:39,867 INFO    MainThread:576 [wandb_init.py:init():674] starting backend
+2025-02-04 19:16:39,867 INFO    MainThread:576 [wandb_init.py:init():678] sending inform_init request
+2025-02-04 19:16:39,868 INFO    MainThread:576 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2025-02-04 19:16:39,869 INFO    MainThread:576 [wandb_init.py:init():693] backend started and connected
+2025-02-04 19:16:39,871 INFO    MainThread:576 [wandb_run.py:_label_probe_notebook():1226] probe notebook
+2025-02-04 19:16:39,872 INFO    MainThread:576 [wandb_init.py:init():786] updated telemetry
+2025-02-04 19:16:39,895 INFO    MainThread:576 [wandb_init.py:init():818] communicating run to backend with 90.0 second timeout
+2025-02-04 19:16:40,615 INFO    MainThread:576 [wandb_init.py:init():868] starting run threads in backend
+2025-02-04 19:16:40,742 INFO    MainThread:576 [wandb_run.py:_console_start():2415] atexit reg
+2025-02-04 19:16:40,742 INFO    MainThread:576 [wandb_run.py:_redirect():2265] redirect: wrap_raw
+2025-02-04 19:16:40,742 INFO    MainThread:576 [wandb_run.py:_redirect():2330] Wrapping output streams.
+2025-02-04 19:16:40,742 INFO    MainThread:576 [wandb_run.py:_redirect():2355] Redirects installed.
+2025-02-04 19:16:40,742 INFO    MainThread:576 [wandb_init.py:init():910] run started, returning control to user process
+2025-02-04 19:17:01,670 INFO    MainThread:576 [wandb_run.py:_finish():2140] finishing run p-alig-fh-ost/mse-vp1-test/a89jbc59
+2025-02-04 19:17:01,671 INFO    MainThread:576 [wandb_run.py:_atexit_cleanup():2380] got exitcode: 0
+2025-02-04 19:17:01,671 INFO    MainThread:576 [wandb_run.py:_restore():2362] restore
+2025-02-04 19:17:01,671 INFO    MainThread:576 [wandb_run.py:_restore():2368] restore done
+2025-02-04 19:17:03,579 INFO    MainThread:576 [wandb_run.py:_footer_history_summary_info():3984] rendering history
+2025-02-04 19:17:03,580 INFO    MainThread:576 [wandb_run.py:_footer_history_summary_info():4016] rendering summary
+2025-02-04 19:17:03,588 INFO    MainThread:576 [wandb_run.py:_footer_sync_info():3945] logging synced files

@@ -1,0 +1,29 @@
+---Iteration: 1---
+Model loaded
+cuda
+Epoch: 1
+test result: score: 3.3952452581008066, RMSE: 0.3326144252476474
+Epoch: 2
+test result: score: 3.391201449772634, RMSE: 0.3317359368520649
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 3
+test result: score: 3.391247265981733, RMSE: 0.33175441703430525
+Epoch: 4
+test result: score: 3.3912515555270746, RMSE: 0.33175614466421377
+Epoch: 5
+test result: score: 3.3922583940824476, RMSE: 0.33196512286093555
+Epoch: 6
+test result: score: 3.3917837051928776, RMSE: 0.3318560287157393
+Epoch: 7
+test result: score: 3.391066740050718, RMSE: 0.33172603092901626
+best_score_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 8
+test result: score: 3.39129932380901, RMSE: 0.33177625168664526
+Epoch: 9
+test result: score: 3.3916291129105374, RMSE: 0.3318710309697546
+Epoch: 10
+test result: score: 3.3910927142043312, RMSE: 0.33171990274320773
+best_RMSE_checkpoints saved successfully at ./checkpoints/DCNN_13/13_iteration1_best_RMSE.pth.tar!
+Best model saved at iteration 1.

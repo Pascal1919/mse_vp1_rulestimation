@@ -1,0 +1,35 @@
+Model loaded
+cuda
+Epoch: 1
+test result: score: 0.5864001121492064, RMSE: 0.1360623241786006
+Epoch: 2
+test result: score: 0.5391595266272485, RMSE: 0.13409050388539193
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 3
+test result: score: 0.4899462223083116, RMSE: 0.1213650896646621
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 4
+test result: score: 0.4502425703865556, RMSE: 0.1128488477039949
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 5
+test result: score: 0.465874801301697, RMSE: 0.11493220395030575
+Epoch: 6
+test result: score: 0.43157406221552996, RMSE: 0.10677706009476719
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 7
+test result: score: 0.44355500387853114, RMSE: 0.10670735817646883
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 8
+test result: score: 0.4404463362955984, RMSE: 0.10583249957589835
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Epoch: 9
+test result: score: 0.4461739434256835, RMSE: 0.10956495049285346
+Epoch: 10
+test result: score: 0.4017802528568924, RMSE: 0.1016630712215072
+best_score_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_score.pth.tar!
+best_RMSE_checkpoints saved successfully at ./checkpoints/LSTM_13/13_iteration1_best_RMSE.pth.tar!
+Best model saved at iteration 1.
