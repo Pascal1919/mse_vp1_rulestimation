@@ -5,6 +5,7 @@ from torch.utils.data import DataLoader
 
 from models.pinn import Score
 
+
 class Trainer:
     def __init__(self, model, train_loader, val_loader, criterion, optimizer, config, device='cuda'):
         self.model = model.to(device)
