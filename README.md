@@ -1,28 +1,28 @@
-# Predictive Maintenance using Deep Learning on CMAPSS
+# 🔧 Predictive Maintenance using Deep Learning on CMAPSS
 
 ## 📌 Project Overview
-This project aims to predict the **Remaining Useful Life (RUL)** of aircraft engines using **CMAPSS** datasets. Various **Deep Learning models** are trained on all four CMAPSS datasets to evaluate their effectiveness in predictive maintenance.
+This project aims to predict the **Remaining Useful Life (RUL)** of aircraft engines using a **combined dataset** from all four **CMAPSS** datasets. By leveraging multiple **Deep Learning architectures**, we aim to enhance the accuracy and robustness of RUL predictions.
 
-## 📂 Datasets
-The project uses **CMAPSS (Commercial Modular Aero-Propulsion System Simulation)** datasets, which contain sensor readings from engines over time until failure. The four datasets used are:
+## 📂 Dataset
+The dataset used in this project is a **combination** of the four CMAPSS sub-datasets:
 - **FD001**
 - **FD002**
 - **FD003**
 - **FD004**
 
-Each dataset has different operating conditions and fault modes, making the problem more challenging.
+By merging these datasets, we create a more diverse and challenging dataset that includes **multiple operational conditions and fault modes**, improving the generalization capability of the models.
 
 ## 🏗️ Models Implemented
-The following **Deep Learning models** are trained and compared:
+We train and evaluate multiple **Deep Learning models** for RUL prediction:
 - **LSTM (Long Short-Term Memory)**
 - **DCNN (Deep Convolutional Neural Network)**
 - **Attention-based Model**
 - **PINN (Physics-Informed Neural Network)**
 
-Each model is evaluated based on its ability to accurately predict the **RUL** of engines.
+These models are designed to handle **time-series sensor data**, capture long-term dependencies, and incorporate domain knowledge into the learning process.
 
 ## ⚙️ Installation
-To set up the environment, use **Miniconda** and install the required dependencies from `requirements.txt`:
+To set up the environment, use **Miniconda** and install the required dependencies:
 
 ```bash
 # Create and activate the environment
@@ -31,4 +31,3 @@ conda activate rul_pred
 
 # Install dependencies
 pip install -r requirements.txt
- 
