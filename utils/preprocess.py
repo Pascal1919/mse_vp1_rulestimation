@@ -4,7 +4,20 @@ import torch
 
 class CMAPSS_Dataset(Dataset):
     def __init__(self, mode='train', data_path=None, subset='13', seq_length=30, max_rul=125, handcrafted=False):
+        """
+        A dataset class for handling CMAPSS data for Remaining Useful Life (RUL) prediction.
 
+        This dataset supports both training and testing modes, processes sensor data, 
+        and optionally extracts handcrafted features.
+
+        Args:
+            mode (str): Dataset mode, either 'train' or 'test'.
+            data_path (str): Path to the dataset directory.
+            subset (str): Subset identifier for CMAPSS dataset, either '13' or '24'.
+            seq_length (int): Sequence length for input.
+            max_rul (int): Maximum RUL threshold.
+            handcrafted (bool): Whether to compute handcrafted features.
+        """
         self.mode = mode
         self.seq_length = seq_length
         self.max_rul = max_rul
@@ -18,7 +31,6 @@ class CMAPSS_Dataset(Dataset):
             self.data = np.loadtxt(fname=f'{data_path}/test_{subset}.txt', dtype=np.float32)
             self.rul_test = np.loadtxt(fname=f'{data_path}/rul_{subset}.txt', dtype=np.float32)
 
-        # self.sample_num = int(self.data[-1][0])
         self.unique_ids = np.unique(self.data[:, 0])
         self.engine_id_to_index = {engine_id: idx for idx, engine_id in enumerate(self.unique_ids)}
         print(f"Found {len(self.unique_ids)} unique motor IDs in the data set.")
@@ -34,6 +46,10 @@ class CMAPSS_Dataset(Dataset):
 
 
     def __preprocess(self, data):
+        """
+        Preprocesses raw CMAPSS data by removing unused columns, extracting sequences,
+        and normalizing RUL values.
+        """
         data = np.delete(data, self.unused_cols, axis=1)
 
         x = []
@@ -76,7 +92,7 @@ class CMAPSS_Dataset(Dataset):
                 rul_index = self.engine_id_to_index[id]
                 rul = self.rul_test[rul_index]
                 if rul > self.max_rul:
-                    rul = self.max_rul  # RUL auf max_rul begrenzen
+                    rul = self.max_rul  # Limit RUL to max_rul
                 y.append(rul)
         
         x = np.array(x)
@@ -87,6 +103,9 @@ class CMAPSS_Dataset(Dataset):
         return x, y
 
     def __handcraft(self):
+        """
+        Computes handcrafted statistical and trend features for each time series sample.
+        """
         mean_and_coef = []
         for i in range(len(self.x)):
             one_sample = self.x[i]

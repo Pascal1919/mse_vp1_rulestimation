@@ -7,6 +7,22 @@ import numpy as np
 
 class Trainer:
     def __init__(self, model, model_optimizer, print_every, max_rul=125, epochs=200, device='cuda', prefix='13', handcrafted=False):
+        """
+        Trainer class for training and evaluating a machine learning model.
+
+        This class provides methods for training the model, validating it on a test dataset, 
+        logging results to Weights & Biases (wandb), and saving checkpoints.
+
+        Args:
+            model (torch.nn.Module): The model to be trained.
+            model_optimizer (torch.optim.Optimizer): The optimizer for weight updates.
+            print_every (int): Frequency of logging training updates.
+            max_rul (int, optional): Maximum RUL value. Defaults to 125.
+            epochs (int, optional): Number of training epochs. Defaults to 200.
+            device (str, optional): Device for training ('cuda' or 'cpu'). Defaults to 'cuda'.
+            prefix (str, optional): Dataset subset identifier. Defaults to '13'.
+            handcrafted (bool, optional): Whether handcrafted features are used. Defaults to False.
+        """
         self.model = model.to(device)
         self.model_optimizer = model_optimizer
         self.print_every = print_every
@@ -19,6 +35,13 @@ class Trainer:
         self.handcrafted = handcrafted
 
     def train_single_epoch(self, dataloader, global_step):
+        """
+        Trains the model for a single epoch.
+
+        Args:
+            dataloader (torch.utils.data.DataLoader): DataLoader for training data.
+            global_step (int): Current global training step.
+        """
         self.model.train()
         running_loss = 0
         total = 0.0
@@ -46,6 +69,13 @@ class Trainer:
         return train_loss, train_rmse, global_step
     
     def test(self, test_loader, global_step):
+        """ 
+        Evaluates the model on a test dataset. 
+        
+        Args:
+            test_loader (torch.utils.data.DataLoader): DataLoader for test data.
+            global_step (int): Current global training step.
+        """
         self.model.eval()
         running_loss = 0.0
         running_score = 0.0
@@ -96,8 +126,15 @@ class Trainer:
         return val_loss, val_rmse, val_score, global_step
 
     def train(self, train_loader, test_loader, iteration, global_step):
-        train_step = global_step
-        val_step = global_step
+        """
+        Trains the model for multiple epochs.
+
+        Args:
+            train_loader (torch.utils.data.DataLoader): DataLoader for training data.
+            test_loader (torch.utils.data.DataLoader): DataLoader for test data.
+            iteration (int): Training iteration number.
+            global_step (int): Current global training step.
+        """
         for epoch in range(self.epochs):
             print('Epoch: {}'.format(epoch + 1))
             
@@ -113,7 +150,6 @@ class Trainer:
                 if val_rmse < best_RMSE:
                     best_RMSE = val_rmse
                     self.save_checkpoints(iteration + 1, epoch + 1, 'best_RMSE')
-            # print(f"epoch={epoch}, loss={current_RMSE}, score={current_score}")
             wandb.log({
                 "epoch/epoch": epoch + 1,
                 "epoch/train-loss": train_loss,

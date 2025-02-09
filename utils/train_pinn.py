@@ -8,6 +8,21 @@ from models.pinn import Score
 
 class Trainer:
     def __init__(self, model, train_loader, val_loader, criterion, optimizer, config, device='cuda'):
+        """
+        Trainer class for training, validating, and evaluating a PINN model.
+
+        This class provides methods for training a model over multiple epochs, 
+        validating it, and logging the results using Weights & Biases (wandb).
+
+        Args:
+            model (nn.Module): The PyTorch model to be trained.
+            train_loader (DataLoader): DataLoader for training data.
+            val_loader (DataLoader): DataLoader for validation data.
+            criterion (torch.nn.Module): Loss function for training.
+            optimizer (torch.optim.Optimizer): Optimizer for weight updates.
+            config (dict): Configuration dictionary containing training parameters.
+            device (str, optional): Device to run training on ('cuda' or 'cpu'). Defaults to 'cuda'.
+        """
         self.model = model.to(device)
         self.train_loader = train_loader
         self.val_loader = val_loader
@@ -15,10 +30,9 @@ class Trainer:
         self.optimizer = optimizer
         self.config = config
         self.device = device
-        # self.global_step = 0
 
     def train_epoch(self, train_loader, global_step):
-        """Führt eine Trainings-Epoche aus."""
+        """Performs a training epoch."""
         self.model.train()
         running_loss, running_data_loss, running_physics_loss, running_score = 0.0, 0.0, 0.0, 0.0
         total = 0.0
@@ -50,7 +64,7 @@ class Trainer:
         return self._compute_epoch_metrics(running_loss, running_data_loss, running_physics_loss, running_score, total, global_step)
 
     def validation_epoch(self, val_loader, global_step):
-        """Führt eine Validierungs-Epoche aus."""
+        """Executes a validation epoch."""
         self.model.eval()
         running_loss, running_data_loss, running_physics_loss, running_score = 0.0, 0.0, 0.0, 0.0
         total = 0.0
@@ -73,7 +87,7 @@ class Trainer:
         return self._compute_epoch_metrics(running_loss, running_data_loss, running_physics_loss, running_score, total, global_step)
 
     def fit(self):
-        """Trainiert das Modell über mehrere Epochen."""
+        """Trains the model over several epochs."""
         global_step = 0
         for epoch in range(self.config["num_epochs"]):
             print(f"Epoch {epoch+1}/{self.config['num_epochs']}")
@@ -99,7 +113,7 @@ class Trainer:
         
 
     def _compute_epoch_metrics(self, loss, data_loss, physics_loss, score, total, global_step):
-        """Hilfsfunktion zur Berechnung der durchschnittlichen Verluste und Score-Werte."""
+        """Auxiliary function for calculating average losses and score values."""
         epoch_loss = loss / total
         epoch_data_loss = data_loss / total
         epoch_physics_loss = physics_loss / total
@@ -108,7 +122,15 @@ class Trainer:
         return epoch_loss, epoch_data_loss, epoch_physics_loss, epoch_score, global_step
 
 def test_model(model, ds_test, batch_size, device='cuda'):
+    """
+    Evaluates the trained model on a test dataset.
 
+    Args:
+        model (nn.Module): The trained PyTorch model.
+        ds_test (Dataset): Test dataset.
+        batch_size (int): Batch size for evaluation.
+        device (str, optional): Device to run inference on ('cuda' or 'cpu'). Defaults to 'cuda'.
+    """
     
     test_loader = DataLoader(ds_test, batch_size, shuffle=False, num_workers=0)
     # Move model to evaluation mode

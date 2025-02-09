@@ -2,6 +2,12 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 class DeepCNN(nn.Module):
+    """
+    A deep convolutional neural network (DCNN) for processing sequential data and make RUL-estimation.
+
+    This model consists of multiple convolutional layers followed by fully 
+    connected layers. It is designed for regression tasks like RUL-estimation.
+    """
     def __init__(self):
         super(DeepCNN, self).__init__()
 
@@ -15,12 +21,19 @@ class DeepCNN(nn.Module):
         # Fully Connected Layers
         self.fc1 = nn.Linear(510, 128)
         self.dropout = nn.Dropout(0.2)
-        self.fc3 = nn.Linear(128, 1)  # Regression output
+        self.fc3 = nn.Linear(128, 1)
 
     def forward(self, x):
-        # Input shape: (batch_size, sequence_length, features)
-        x = x.unsqueeze(1)
+        """
+        Defines the forward pass of the DeepCNN model.
 
+        Args:
+            x (torch.Tensor): Input tensor of shape (batch_size, sequence_length, features).
+
+        Returns:
+            torch.Tensor: Output tensor of shape (batch_size, 1), representing the RUL prediction.
+        """
+        x = x.unsqueeze(1)
         x = F.relu(self.conv1(x))
         x = F.relu(self.conv2(x))
         x = F.relu(self.conv3(x))

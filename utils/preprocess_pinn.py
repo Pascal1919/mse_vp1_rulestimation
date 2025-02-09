@@ -6,7 +6,7 @@ from torch.utils.data import Dataset
 class CMAPSSDataset(Dataset):
     def __init__(self, mode='train', data_path=None, subset='13', max_rul=125):
         """
-        CMAPSS Dataset loader with dynamic KMeans clustering for operating conditions.
+        CMAPSS Dataset loader for PINN.
 
         Args:
             mode (str): Decides if train or test data is used.

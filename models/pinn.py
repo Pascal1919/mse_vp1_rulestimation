@@ -1,13 +1,19 @@
 import torch
 import torch.nn as nn
 
-# x-NN Module (Self-Attention based feature extractor)
 class xNN(nn.Module):
     def __init__(self, input_dim, hidden_dim):
+        """
+        Self-Attention based feature extractor module.
+
+        Args:
+            input_dim (int): Number of input features.
+            hidden_dim (int): Number of hidden units.
+        """
         super(xNN, self).__init__()
         self.hidden_dim = hidden_dim
         self.features = input_dim
-        self.multihead_attn = nn.MultiheadAttention(self.features, 1)  # Self-Attention layer
+        self.multihead_attn = nn.MultiheadAttention(self.features, 1)
         self.Dense1 = nn.Linear(self.features, self.features)
         self.Dense2 = nn.Linear(self.features, self.hidden_dim)
         self.LN = nn.LayerNorm(self.features)
@@ -23,10 +29,17 @@ class xNN(nn.Module):
 # deepHPM Module (Self-Attention based physics model)
 class DeepHPM(nn.Module):
     def __init__(self, input_dim, hidden_dim):
+        """
+        Self-Attention based physics model for enforcing physical constraints.
+
+        Args:
+            input_dim (int): Number of input features.
+            hidden_dim (int): Number of hidden units.
+        """    
         super(DeepHPM, self).__init__()
         self.hidden_dim = hidden_dim
         self.features = input_dim
-        self.multihead_attn = nn.MultiheadAttention(self.features, 1)  # Self-Attention layer
+        self.multihead_attn = nn.MultiheadAttention(self.features, 1)
         self.Dense1 = nn.Linear(self.features, self.features)
         self.Dense2 = nn.Linear(self.features, self.hidden_dim)
         self.LN = nn.LayerNorm(self.features)
@@ -43,6 +56,12 @@ class DeepHPM(nn.Module):
 # MLP Module for mapping hidden states to RUL predictions
 class MLP(nn.Module):
     def __init__(self, input_dim):
+        """
+        Multi-layer perceptron (MLP) for mapping hidden states to RUL predictions.
+
+        Args:
+            input_dim (int): Number of input features.
+        """
         super(MLP, self).__init__()
         self.features = input_dim
         params = torch.ones(6)
@@ -70,6 +89,21 @@ class MLP(nn.Module):
 # PINN Module
 class PINN(nn.Module):
     def __init__(self, input_dim, hidden_dim, derivatives_order):
+        """
+        Physics-Informed Neural Network (PINN).
+
+        This model integrates data-driven learning with physics-based constraints.
+        
+        Attributes:
+            xnn (xNN): Self-attention-based feature extractor.
+            mlp (MLP): Multi-layer perceptron for regression.
+            deepHPM (DeepHPM): Self-attention-based physics model.
+
+        Args:
+            input_dim (int): Number of input features.
+            hidden_dim (int): Number of hidden units.
+            derivatives_order (int): Order of derivatives to enforce.
+        """
         super(PINN, self).__init__()
         self.hidden_dim = hidden_dim
         self.order = derivatives_order
